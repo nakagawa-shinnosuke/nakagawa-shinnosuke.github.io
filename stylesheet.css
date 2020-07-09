@@ -31,6 +31,9 @@ main {
   padding-right:80px;
 }
 
+.copy-container {
+  background-image:url(191116-0103_orig);
+}
 
 .copy-container h1 {
   font-size:140px;
